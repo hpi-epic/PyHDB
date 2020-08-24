@@ -1,12 +1,3 @@
-|travis|
-
-.. |travis| image:: https://travis-ci.org/hpi-epic/pyHANA.svg?branch=master
-    :target: https://travis-ci.org/hpi-epic/pyHANA
-
-.. |coverage| image:: https://codecov.io/github/hpi-epic/pyHANA/coverage.svg?branch=master
-    :target: https://codecov.io/github/hpi-epic/pyHANA?branch=master
-
-
 The pyHANA Fork
 ===============
 
