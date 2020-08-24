@@ -7,13 +7,12 @@
     :target: https://codecov.io/github/hpi-epic/pyHANA?branch=master
 
 
-
 The pyHANA Fork
 ===============
 
-This repository is a fork of the official repository at `https://github.com/SAP/PyHDB`. The goal of this repo is to have it maintained by the open-source community. 
+** This repository is no longer maintained. The initial goal was to have a place for fixes and updates to the `pyhdb` project, which did not really accept pull requests. However, we currently lack the time to maintain this repository any further. In case you have any questions, please contact the github user Bouncner.**
 
-Think of this repository as a cutting-edge version, if you will.
+This repository is a fork of the official repository at `https://github.com/SAP/PyHDB`. The goal of this repo was to have it maintained by the open-source community. 
 
 Original Readme:
 =================
